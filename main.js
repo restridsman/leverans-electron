@@ -25,7 +25,8 @@ function createWindow() {
     }
   });
 
-   mainWindow.loadURL('https://rebstr.se/');
+  //  mainWindow.loadURL('https://rebstr.se/');
+   mainWindow.loadURL('http://localhost:3000');
 
   // allow the remote module to be used in the window/renderer
   remoteMain.enable(mainWindow.webContents);

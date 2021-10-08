@@ -3,10 +3,10 @@
     "label": "File",
     "submenu": [
       {
-        "label": "Save textarea contents"
+        "label": "Save likes"
       },
       {
-        "label": "Load textarea contents"
+        "label": "Load likes"
       }
     ]
   },
